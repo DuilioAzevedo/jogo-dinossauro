@@ -1,0 +1,1 @@
+Cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Seguindo tutorial lab Digital Inovation One, utilizando HTML,CSS e Javascript.
